@@ -1,0 +1,5 @@
+{
+  "name": "HumanaMente Psicologia",
+  "description": "Uma aplicação de agendamento semanal para um consultório de psicologia, permitindo que profissionais solicitem horários em salas disponíveis e um administrador aprove essas solicitações.",
+  "requestFramePermissions": []
+}
